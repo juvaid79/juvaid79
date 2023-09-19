@@ -6,14 +6,18 @@
 🌟 Skills:
 
 💡 Frontend: <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js, <img src="https://img.icons8.com/color/48/000000/redux.png"/> Redux, HTML, CSS, JavaScript
-🛠️ Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js, <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
-💾 Database: <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB, <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
-🔧 Tools: <img src="https://img.icons8.com/color/48/000000/git.png"/> Git, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code, <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman
+🛠️ Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js,
+            <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
+💾 Database: <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB, 
+             <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
+🔧 Tools:    <img src="https://img.icons8.com/color/48/000000/git.png"/> Git, 
+             <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code, 
+             <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman
+
 🌐 Open Source Contributions:
 I'm an avid believer in the power of open source. I've contributed to various projects and am always looking for new opportunities to collaborate and give back to the developer community.
 
-📚 Learning Never Stops:
-In the ever-evolving world of web development, I'm committed to continuous learning. I'm currently exploring my skill set in <img src="https://img.icons8.com/color/48/000000/graphql.png"/> GraphQL, <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker, and <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes.
+
 
 🤝 Let's Connect:
 I'm always open to networking and collaborating on exciting projects. Feel free to reach out to me through
