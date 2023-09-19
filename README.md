@@ -23,7 +23,7 @@ I'm Juvaid Ahmad, a passionate MERN (MongoDB, Express.js, React, Node.js) Stack 
 - 🔧 Tools:
   - <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
   - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code
-  - <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman
+
 
 **Open Source Contributions**:
 I'm an avid believer in the power of open source. I've contributed to various projects and am always looking for new opportunities to collaborate and give back to the developer community.
